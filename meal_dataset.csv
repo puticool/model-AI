@@ -1,0 +1,1001 @@
+type,title,calories,protein,carbs,fat,ingredients,recipe
+Breakfast,Oatmeal with Berries,400,10,50,10,"Oats, Milk, Berries, Honey",https://example.com/oatmeal-recipe
+Breakfast,Avocado Toast,300,8,20,15,"Bread, Avocado, Olive Oil, Salt",https://example.com/avocado-toast
+Lunch,Grilled Chicken Salad,600,40,20,25,"Chicken, Lettuce, Olive Oil, Dressing",https://example.com/grilled-chicken-salad
+Lunch,Quinoa Bowl,700,35,50,20,"Quinoa, Chickpeas, Vegetables, Tahini",https://example.com/quinoa-bowl
+Dinner,Baked Salmon with Veggies,550,45,30,20,"Salmon, Broccoli, Olive Oil, Lemon",https://example.com/baked-salmon
+Dinner,Vegetarian Stir Fry,500,20,60,15,"Tofu, Mixed Vegetables, Soy Sauce, Rice",https://example.com/vegetarian-stir-fry
+Breakfast,Breakfast Special 5279,347,68,32,4,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/breakfast-special-5279
+Snack,Snack Special 8044,497,35,25,40,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/snack-special-8044
+Dessert,Dessert Special 1187,383,38,62,35,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-1187
+Dessert,Dessert Special 4469,371,5,29,35,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-4469
+Lunch,Lunch Special 6484,410,14,25,16,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/lunch-special-6484
+Snack,Snack Special 4170,612,9,25,38,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/snack-special-4170
+Dinner,Dinner Special 148,853,40,80,12,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-148
+Dessert,Dessert Special 6924,253,25,53,30,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dessert-special-6924
+Breakfast,Breakfast Special 6520,325,14,40,28,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/breakfast-special-6520
+Dessert,Dessert Special 3584,381,61,34,14,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-3584
+Breakfast,Breakfast Special 4754,486,27,76,12,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-4754
+Dinner,Dinner Special 2786,733,6,29,36,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-2786
+Dessert,Dessert Special 9351,332,35,75,1,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-9351
+Dinner,Dinner Special 3764,536,35,68,19,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3764
+Dessert,Dessert Special 3714,648,67,20,27,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dessert-special-3714
+Dinner,Dinner Special 3826,789,58,39,16,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3826
+Dessert,Dessert Special 9446,586,44,15,34,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-9446
+Breakfast,Breakfast Special 2040,722,56,27,9,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2040
+Dinner,Dinner Special 5769,752,36,26,33,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-5769
+Dinner,Dinner Special 6437,439,52,36,31,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-6437
+Dessert,Dessert Special 3830,382,23,34,40,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dessert-special-3830
+Snack,Snack Special 2654,672,63,39,4,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/snack-special-2654
+Dessert,Dessert Special 9307,291,35,51,25,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-9307
+Snack,Snack Special 8106,662,44,13,32,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/snack-special-8106
+Lunch,Lunch Special 4698,404,53,74,28,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-4698
+Dinner,Dinner Special 1686,300,68,14,30,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dinner-special-1686
+Snack,Snack Special 8395,496,59,43,33,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-8395
+Lunch,Lunch Special 3308,195,16,62,11,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/lunch-special-3308
+Dessert,Dessert Special 332,417,66,55,27,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-332
+Dessert,Dessert Special 3950,457,59,70,25,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-3950
+Snack,Snack Special 7996,578,42,10,30,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/snack-special-7996
+Dessert,Dessert Special 1142,272,43,9,17,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dessert-special-1142
+Dinner,Dinner Special 995,878,35,21,33,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dinner-special-995
+Dinner,Dinner Special 1001,337,41,44,36,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dinner-special-1001
+Breakfast,Breakfast Special 580,664,65,30,26,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/breakfast-special-580
+Lunch,Lunch Special 5599,772,29,48,15,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-5599
+Breakfast,Breakfast Special 3650,284,58,69,36,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-3650
+Lunch,Lunch Special 9813,421,66,55,8,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/lunch-special-9813
+Dessert,Dessert Special 2928,450,46,9,17,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-2928
+Lunch,Lunch Special 8154,678,18,35,6,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/lunch-special-8154
+Lunch,Lunch Special 3273,792,50,36,1,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/lunch-special-3273
+Breakfast,Breakfast Special 2799,523,27,50,22,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2799
+Dinner,Dinner Special 831,193,19,35,28,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-831
+Dinner,Dinner Special 8655,569,15,48,1,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-8655
+Dinner,Dinner Special 5025,542,64,24,26,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-5025
+Dinner,Dinner Special 232,693,41,62,24,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dinner-special-232
+Snack,Snack Special 2799,807,47,64,4,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/snack-special-2799
+Breakfast,Breakfast Special 4449,590,61,45,33,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/breakfast-special-4449
+Dessert,Dessert Special 3458,840,9,17,15,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-3458
+Dessert,Dessert Special 2964,521,50,72,25,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dessert-special-2964
+Dinner,Dinner Special 8553,578,53,21,2,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dinner-special-8553
+Dinner,Dinner Special 9216,727,47,41,34,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dinner-special-9216
+Dinner,Dinner Special 8185,894,36,49,32,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-8185
+Lunch,Lunch Special 4851,874,23,31,17,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/lunch-special-4851
+Snack,Snack Special 1566,792,66,76,36,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-1566
+Dessert,Dessert Special 1389,507,15,29,37,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-1389
+Snack,Snack Special 134,801,15,72,7,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/snack-special-134
+Breakfast,Breakfast Special 309,583,18,17,33,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-309
+Dinner,Dinner Special 6434,851,12,65,40,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dinner-special-6434
+Breakfast,Breakfast Special 7805,756,56,53,8,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/breakfast-special-7805
+Breakfast,Breakfast Special 1830,463,8,25,17,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/breakfast-special-1830
+Breakfast,Breakfast Special 1944,359,44,79,6,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/breakfast-special-1944
+Dinner,Dinner Special 1101,452,39,13,12,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-1101
+Dinner,Dinner Special 828,577,47,59,29,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-828
+Lunch,Lunch Special 1065,332,24,41,15,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/lunch-special-1065
+Breakfast,Breakfast Special 1678,719,61,41,26,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-1678
+Breakfast,Breakfast Special 5715,743,70,47,22,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-5715
+Dessert,Dessert Special 8072,516,43,50,27,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-8072
+Breakfast,Breakfast Special 9080,894,54,28,30,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-9080
+Lunch,Lunch Special 154,277,46,72,17,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/lunch-special-154
+Dinner,Dinner Special 482,598,12,49,37,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-482
+Lunch,Lunch Special 8235,171,42,66,9,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/lunch-special-8235
+Dessert,Dessert Special 8412,541,63,10,37,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dessert-special-8412
+Breakfast,Breakfast Special 8673,206,55,27,35,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-8673
+Lunch,Lunch Special 2314,628,55,9,4,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-2314
+Breakfast,Breakfast Special 3861,399,44,75,7,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/breakfast-special-3861
+Snack,Snack Special 995,175,55,57,19,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-995
+Dinner,Dinner Special 3799,819,39,70,2,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dinner-special-3799
+Dinner,Dinner Special 2949,639,49,71,21,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dinner-special-2949
+Dinner,Dinner Special 7317,700,48,15,29,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-7317
+Dinner,Dinner Special 1791,837,61,31,39,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dinner-special-1791
+Breakfast,Breakfast Special 7900,257,47,51,25,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7900
+Lunch,Lunch Special 842,312,12,10,13,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-842
+Breakfast,Breakfast Special 5844,572,19,74,19,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/breakfast-special-5844
+Dessert,Dessert Special 7700,557,62,80,33,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-7700
+Lunch,Lunch Special 2315,715,39,75,20,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/lunch-special-2315
+Snack,Snack Special 8422,724,6,64,9,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-8422
+Breakfast,Breakfast Special 4344,871,23,72,36,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-4344
+Snack,Snack Special 8123,561,47,27,7,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/snack-special-8123
+Snack,Snack Special 6935,885,47,70,36,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-6935
+Breakfast,Breakfast Special 9847,210,60,23,32,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-9847
+Snack,Snack Special 1228,765,17,52,18,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-1228
+Breakfast,Breakfast Special 6982,878,50,78,23,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6982
+Breakfast,Breakfast Special 1147,716,62,40,11,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-1147
+Breakfast,Breakfast Special 9072,586,62,34,26,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-9072
+Dessert,Dessert Special 5159,689,36,8,40,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dessert-special-5159
+Dinner,Dinner Special 6402,628,53,57,39,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dinner-special-6402
+Dinner,Dinner Special 7224,808,35,41,21,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dinner-special-7224
+Lunch,Lunch Special 5471,383,48,18,32,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-5471
+Lunch,Lunch Special 4270,729,54,11,2,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-4270
+Dessert,Dessert Special 450,841,7,43,31,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-450
+Snack,Snack Special 3391,532,8,43,12,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/snack-special-3391
+Breakfast,Breakfast Special 1064,779,64,31,30,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-1064
+Breakfast,Breakfast Special 8321,491,50,26,22,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-8321
+Breakfast,Breakfast Special 2149,151,50,25,25,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-2149
+Lunch,Lunch Special 8502,152,40,70,36,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/lunch-special-8502
+Breakfast,Breakfast Special 5285,267,37,13,18,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-5285
+Dinner,Dinner Special 1855,250,29,7,1,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-1855
+Lunch,Lunch Special 5227,883,69,23,4,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/lunch-special-5227
+Dessert,Dessert Special 1505,539,43,76,6,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-1505
+Snack,Snack Special 8369,678,61,11,29,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/snack-special-8369
+Lunch,Lunch Special 5028,715,41,11,38,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-5028
+Dinner,Dinner Special 9104,703,21,57,32,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-9104
+Dinner,Dinner Special 2992,372,17,56,39,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-2992
+Dessert,Dessert Special 8674,309,66,68,10,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-8674
+Dessert,Dessert Special 3318,363,7,40,16,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dessert-special-3318
+Dessert,Dessert Special 2771,568,58,46,40,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-2771
+Snack,Snack Special 3416,402,62,46,16,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/snack-special-3416
+Breakfast,Breakfast Special 9055,584,36,55,5,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/breakfast-special-9055
+Lunch,Lunch Special 4824,786,39,23,10,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/lunch-special-4824
+Lunch,Lunch Special 4471,807,44,26,18,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-4471
+Breakfast,Breakfast Special 957,270,50,50,39,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-957
+Dinner,Dinner Special 5438,545,41,47,23,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/dinner-special-5438
+Snack,Snack Special 991,383,24,27,7,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-991
+Snack,Snack Special 5289,251,61,41,4,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/snack-special-5289
+Lunch,Lunch Special 475,156,70,5,35,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/lunch-special-475
+Dessert,Dessert Special 8298,187,7,37,15,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-8298
+Lunch,Lunch Special 3581,470,50,56,4,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-3581
+Breakfast,Breakfast Special 9735,456,22,39,27,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/breakfast-special-9735
+Dinner,Dinner Special 7401,195,15,58,28,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dinner-special-7401
+Breakfast,Breakfast Special 2907,479,69,14,35,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/breakfast-special-2907
+Dessert,Dessert Special 2313,566,12,23,6,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-2313
+Dessert,Dessert Special 6859,567,46,52,40,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dessert-special-6859
+Dinner,Dinner Special 9602,464,44,23,9,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dinner-special-9602
+Dinner,Dinner Special 8607,194,66,39,32,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-8607
+Breakfast,Breakfast Special 64,485,28,44,26,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-64
+Snack,Snack Special 6884,692,54,50,34,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-6884
+Breakfast,Breakfast Special 3587,333,54,26,3,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/breakfast-special-3587
+Lunch,Lunch Special 9456,812,34,80,12,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/lunch-special-9456
+Dessert,Dessert Special 5595,797,67,9,34,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-5595
+Lunch,Lunch Special 7630,544,29,61,40,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-7630
+Breakfast,Breakfast Special 4811,529,21,79,9,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-4811
+Dessert,Dessert Special 1495,868,68,49,19,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dessert-special-1495
+Snack,Snack Special 7597,454,7,29,24,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/snack-special-7597
+Dessert,Dessert Special 3164,575,47,28,36,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-3164
+Lunch,Lunch Special 9863,602,55,33,21,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-9863
+Lunch,Lunch Special 6117,844,68,28,34,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/lunch-special-6117
+Lunch,Lunch Special 9489,339,68,21,17,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-9489
+Lunch,Lunch Special 6068,781,46,16,23,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-6068
+Dessert,Dessert Special 4759,245,28,75,35,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-4759
+Dessert,Dessert Special 6387,812,27,27,29,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-6387
+Dinner,Dinner Special 6800,329,63,46,29,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-6800
+Breakfast,Breakfast Special 889,600,55,28,30,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-889
+Dessert,Dessert Special 4382,690,5,71,8,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dessert-special-4382
+Dessert,Dessert Special 8043,831,5,58,11,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-8043
+Lunch,Lunch Special 3696,847,36,80,16,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-3696
+Snack,Snack Special 8040,531,21,46,20,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-8040
+Breakfast,Breakfast Special 8064,423,33,24,24,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-8064
+Snack,Snack Special 9434,853,57,79,31,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/snack-special-9434
+Dinner,Dinner Special 3828,352,20,7,10,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-3828
+Snack,Snack Special 2331,579,57,27,3,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/snack-special-2331
+Snack,Snack Special 3095,498,12,35,21,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-3095
+Dessert,Dessert Special 8133,718,6,59,31,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-8133
+Snack,Snack Special 2186,729,11,50,12,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/snack-special-2186
+Snack,Snack Special 4794,328,62,59,23,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/snack-special-4794
+Dinner,Dinner Special 3891,651,15,49,24,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-3891
+Snack,Snack Special 248,156,45,63,29,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/snack-special-248
+Breakfast,Breakfast Special 7627,176,55,36,38,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7627
+Dessert,Dessert Special 3426,227,51,66,15,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-3426
+Lunch,Lunch Special 2337,774,5,29,9,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-2337
+Snack,Snack Special 2675,616,41,17,21,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/snack-special-2675
+Snack,Snack Special 8864,854,51,72,32,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/snack-special-8864
+Breakfast,Breakfast Special 7577,470,46,44,37,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7577
+Dinner,Dinner Special 5674,608,25,79,25,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-5674
+Dessert,Dessert Special 27,734,28,74,27,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-27
+Breakfast,Breakfast Special 365,269,21,29,30,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-365
+Dinner,Dinner Special 276,890,30,54,18,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dinner-special-276
+Dessert,Dessert Special 5752,868,13,38,40,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-5752
+Dinner,Dinner Special 9374,756,25,29,30,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-9374
+Breakfast,Breakfast Special 8507,508,11,72,17,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/breakfast-special-8507
+Dessert,Dessert Special 4650,724,8,57,8,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-4650
+Lunch,Lunch Special 3377,786,70,27,28,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/lunch-special-3377
+Dinner,Dinner Special 7366,880,35,50,25,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7366
+Lunch,Lunch Special 2423,332,52,10,20,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/lunch-special-2423
+Dinner,Dinner Special 783,335,24,14,19,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/dinner-special-783
+Breakfast,Breakfast Special 5108,773,10,45,26,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-5108
+Dessert,Dessert Special 434,839,47,79,26,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-434
+Snack,Snack Special 9666,406,61,53,25,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/snack-special-9666
+Lunch,Lunch Special 7611,518,29,20,26,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-7611
+Breakfast,Breakfast Special 4709,270,39,7,22,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-4709
+Dinner,Dinner Special 4439,891,51,79,7,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-4439
+Dinner,Dinner Special 1870,513,54,61,27,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-1870
+Dessert,Dessert Special 893,864,43,28,26,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dessert-special-893
+Dinner,Dinner Special 5433,264,69,64,29,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dinner-special-5433
+Dinner,Dinner Special 3476,573,65,57,22,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-3476
+Lunch,Lunch Special 8459,187,18,70,3,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-8459
+Dinner,Dinner Special 8144,509,49,24,5,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/dinner-special-8144
+Dinner,Dinner Special 6257,402,57,59,16,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dinner-special-6257
+Dinner,Dinner Special 5349,295,46,15,3,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-5349
+Dessert,Dessert Special 4311,269,70,60,28,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-4311
+Snack,Snack Special 8666,432,25,23,8,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-8666
+Dessert,Dessert Special 8739,649,51,60,17,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-8739
+Lunch,Lunch Special 1244,268,34,16,18,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-1244
+Dinner,Dinner Special 4834,481,47,34,35,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dinner-special-4834
+Dessert,Dessert Special 2793,579,20,78,11,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-2793
+Dinner,Dinner Special 7096,695,52,6,40,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-7096
+Breakfast,Breakfast Special 8953,319,42,8,15,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/breakfast-special-8953
+Dessert,Dessert Special 1151,565,66,24,33,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-1151
+Dessert,Dessert Special 861,326,31,8,34,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-861
+Lunch,Lunch Special 5812,220,67,9,12,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/lunch-special-5812
+Dessert,Dessert Special 9270,843,10,39,25,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-9270
+Breakfast,Breakfast Special 9288,480,21,22,24,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-9288
+Lunch,Lunch Special 8725,269,34,33,13,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-8725
+Snack,Snack Special 1978,732,14,55,31,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/snack-special-1978
+Dessert,Dessert Special 3439,340,30,47,29,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dessert-special-3439
+Breakfast,Breakfast Special 4988,756,55,67,6,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-4988
+Breakfast,Breakfast Special 132,221,66,9,32,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/breakfast-special-132
+Snack,Snack Special 1668,464,62,44,11,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-1668
+Snack,Snack Special 2273,527,34,34,31,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-2273
+Dessert,Dessert Special 2645,277,69,25,8,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-2645
+Dessert,Dessert Special 6842,741,46,55,36,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-6842
+Lunch,Lunch Special 8575,306,55,55,34,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/lunch-special-8575
+Dessert,Dessert Special 3418,819,16,58,17,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-3418
+Breakfast,Breakfast Special 4074,694,60,8,18,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-4074
+Dinner,Dinner Special 403,877,36,58,5,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-403
+Dessert,Dessert Special 9077,571,60,80,39,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-9077
+Breakfast,Breakfast Special 8287,552,37,27,19,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-8287
+Breakfast,Breakfast Unique 7372,302,70,70,4,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/breakfast-unique-7372
+Dessert,Dessert Special 666,445,57,64,40,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-666
+Dinner,Dinner Special 3263,326,26,40,19,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3263
+Dessert,Dessert Special 9434,654,61,33,8,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-9434
+Breakfast,Breakfast Special 8447,700,31,40,19,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-8447
+Snack,Snack Special 6750,233,64,29,12,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/snack-special-6750
+Dinner,Dinner Special 3642,252,15,77,14,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dinner-special-3642
+Breakfast,Breakfast Special 6700,679,8,51,23,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/breakfast-special-6700
+Breakfast,Breakfast Special 4844,214,69,48,10,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-4844
+Dessert,Dessert Special 3928,485,67,34,35,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dessert-special-3928
+Snack,Snack Special 7054,314,52,59,10,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-7054
+Breakfast,Breakfast Special 1065,888,59,6,31,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/breakfast-special-1065
+Lunch,Lunch Special 4009,816,12,76,19,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-4009
+Dessert,Dessert Special 4215,175,35,31,25,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/dessert-special-4215
+Dessert,Dessert Special 2724,397,16,74,9,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-2724
+Dessert,Dessert Special 7023,545,5,47,34,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-7023
+Lunch,Lunch Special 1188,226,13,76,11,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-1188
+Snack,Snack Special 5656,403,51,5,10,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-5656
+Dessert,Dessert Special 3290,884,60,12,18,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-3290
+Breakfast,Breakfast Special 8621,356,63,17,39,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/breakfast-special-8621
+Lunch,Lunch Special 5328,516,41,55,36,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-5328
+Lunch,Lunch Special 4816,333,15,36,25,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-4816
+Snack,Snack Special 3086,529,60,7,37,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-3086
+Dinner,Dinner Special 4367,250,33,55,12,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-4367
+Breakfast,Breakfast Special 1791,892,58,51,7,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-1791
+Breakfast,Breakfast Special 6399,561,68,74,40,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6399
+Breakfast,Breakfast Special 369,626,43,21,34,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/breakfast-special-369
+Lunch,Lunch Special 316,285,8,51,4,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-316
+Dinner,Dinner Special 9474,153,33,9,12,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-9474
+Dessert,Dessert Special 654,407,49,13,4,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dessert-special-654
+Dessert,Dessert Special 3866,554,29,42,25,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dessert-special-3866
+Lunch,Lunch Special 2786,471,7,13,30,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-2786
+Snack,Snack Special 3248,845,57,53,20,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-3248
+Dessert,Dessert Special 9859,306,37,42,4,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-9859
+Dinner,Dinner Special 9048,483,17,36,29,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dinner-special-9048
+Dessert,Dessert Special 2398,359,35,24,10,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dessert-special-2398
+Snack,Snack Special 9931,895,58,22,19,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/snack-special-9931
+Lunch,Lunch Special 2562,232,26,32,36,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-2562
+Dinner,Dinner Special 4424,493,54,55,20,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-4424
+Dessert,Dessert Special 427,338,17,36,25,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-427
+Dinner,Dinner Special 5214,775,68,54,13,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-5214
+Lunch,Lunch Special 5330,398,63,59,1,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/lunch-special-5330
+Dinner,Dinner Special 3842,307,36,27,4,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dinner-special-3842
+Breakfast,Breakfast Special 6557,361,9,52,14,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6557
+Breakfast,Breakfast Special 699,508,61,18,1,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-699
+Snack,Snack Special 1808,445,67,54,17,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-1808
+Lunch,Lunch Special 2151,488,13,19,28,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-2151
+Breakfast,Breakfast Special 202,458,23,29,3,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-202
+Breakfast,Breakfast Special 1611,178,18,18,18,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-1611
+Breakfast,Breakfast Special 5853,729,70,75,35,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-5853
+Snack,Snack Special 703,584,40,66,15,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/snack-special-703
+Lunch,Lunch Special 7946,842,14,5,18,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-7946
+Dinner,Dinner Special 1189,806,34,70,3,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dinner-special-1189
+Breakfast,Breakfast Special 4570,279,66,77,3,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/breakfast-special-4570
+Dinner,Dinner Special 8208,313,57,35,6,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dinner-special-8208
+Snack,Snack Special 7513,738,39,29,12,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-7513
+Breakfast,Breakfast Special 9429,870,50,19,12,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-9429
+Breakfast,Breakfast Special 8100,593,9,15,20,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-8100
+Lunch,Lunch Special 1975,294,53,50,31,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/lunch-special-1975
+Dessert,Dessert Special 540,749,53,42,9,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-540
+Dinner,Dinner Special 8586,741,52,78,7,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-8586
+Snack,Snack Special 717,677,22,12,3,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-717
+Snack,Snack Special 5650,332,18,31,5,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-5650
+Dessert,Dessert Special 5385,443,28,59,14,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-5385
+Snack,Snack Special 9695,526,40,66,18,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-9695
+Dinner,Dinner Special 2554,355,54,23,9,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-2554
+Breakfast,Breakfast Special 6721,669,49,56,7,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/breakfast-special-6721
+Lunch,Lunch Special 8241,253,22,33,31,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-8241
+Breakfast,Breakfast Special 392,635,57,52,18,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-392
+Dinner,Dinner Special 9926,344,15,80,11,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-9926
+Snack,Snack Special 9119,495,27,19,19,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-9119
+Dessert,Dessert Special 6248,249,26,45,11,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-6248
+Lunch,Lunch Special 6183,640,8,12,36,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/lunch-special-6183
+Dessert,Dessert Special 1299,239,20,62,30,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-1299
+Snack,Snack Special 6347,166,52,48,32,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-6347
+Lunch,Lunch Special 6846,278,58,74,35,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/lunch-special-6846
+Dessert,Dessert Special 9637,837,69,42,20,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dessert-special-9637
+Breakfast,Breakfast Special 4206,668,32,6,7,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-4206
+Breakfast,Breakfast Special 2991,279,66,48,6,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-2991
+Dessert,Dessert Special 270,362,16,66,34,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dessert-special-270
+Lunch,Lunch Special 4466,256,58,35,23,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-4466
+Dessert,Dessert Special 807,634,40,71,16,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-807
+Dessert,Dessert Special 7061,377,53,12,21,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dessert-special-7061
+Lunch,Lunch Special 9781,201,55,38,40,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-9781
+Dinner,Dinner Special 5467,890,35,53,30,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dinner-special-5467
+Lunch,Lunch Special 7529,714,47,16,17,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-7529
+Dessert,Dessert Special 1346,602,41,14,3,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-1346
+Dessert,Dessert Special 1178,665,42,21,5,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-1178
+Snack,Snack Special 5680,346,48,7,18,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-5680
+Lunch,Lunch Special 2830,613,12,37,4,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/lunch-special-2830
+Lunch,Lunch Special 3246,510,55,64,33,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-3246
+Dessert,Dessert Special 5102,733,58,22,20,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/dessert-special-5102
+Snack,Snack Special 1180,448,62,65,35,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-1180
+Lunch,Lunch Special 7064,843,55,27,25,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-7064
+Breakfast,Breakfast Special 190,248,65,55,1,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/breakfast-special-190
+Dessert,Dessert Special 3523,695,51,76,10,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dessert-special-3523
+Lunch,Lunch Special 4603,216,28,5,9,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/lunch-special-4603
+Dessert,Dessert Special 5167,632,5,28,29,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-5167
+Dessert,Dessert Special 2733,650,56,61,26,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-2733
+Dessert,Dessert Special 9802,222,65,8,1,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dessert-special-9802
+Lunch,Lunch Special 7918,561,31,29,24,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/lunch-special-7918
+Dinner,Dinner Special 6780,454,68,52,21,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-6780
+Lunch,Lunch Special 5951,822,26,61,14,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/lunch-special-5951
+Breakfast,Breakfast Special 6960,597,15,9,37,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-6960
+Dinner,Dinner Special 9180,414,38,74,10,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dinner-special-9180
+Dinner,Dinner Special 8411,461,10,60,25,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/dinner-special-8411
+Dessert,Dessert Special 8692,753,62,74,8,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dessert-special-8692
+Snack,Snack Special 6776,685,11,11,17,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/snack-special-6776
+Breakfast,Breakfast Special 9833,796,67,41,34,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-9833
+Dessert,Dessert Special 8798,630,51,47,7,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dessert-special-8798
+Lunch,Lunch Special 6905,869,44,39,39,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/lunch-special-6905
+Breakfast,Breakfast Special 4339,398,43,33,18,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/breakfast-special-4339
+Dinner,Dinner Special 6232,320,62,41,29,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-6232
+Dessert,Dessert Special 725,625,21,25,34,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-725
+Lunch,Lunch Special 3223,239,54,9,15,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-3223
+Lunch,Lunch Special 7844,582,65,25,27,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/lunch-special-7844
+Dessert,Dessert Special 4138,261,52,78,30,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dessert-special-4138
+Breakfast,Breakfast Special 5548,264,49,39,29,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/breakfast-special-5548
+Snack,Snack Special 3670,477,20,60,27,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-3670
+Snack,Snack Special 5123,179,42,74,37,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-5123
+Dessert,Dessert Special 9962,454,43,11,24,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dessert-special-9962
+Dessert,Dessert Special 8104,280,53,34,30,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-8104
+Dinner,Dinner Special 5203,813,29,67,3,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dinner-special-5203
+Snack,Snack Special 8754,791,22,14,37,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/snack-special-8754
+Dessert,Dessert Special 8259,535,14,24,7,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dessert-special-8259
+Lunch,Lunch Special 7785,504,8,5,14,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/lunch-special-7785
+Breakfast,Breakfast Special 4822,226,69,47,25,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-4822
+Breakfast,Breakfast Special 2723,600,28,68,15,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-2723
+Snack,Snack Special 3846,512,61,30,36,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/snack-special-3846
+Lunch,Lunch Special 5133,595,26,43,25,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-5133
+Dinner,Dinner Special 7961,459,63,65,9,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7961
+Dinner,Dinner Special 87,720,63,66,29,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dinner-special-87
+Dessert,Dessert Special 7870,475,56,59,11,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-7870
+Lunch,Lunch Special 7802,810,24,63,6,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/lunch-special-7802
+Dessert,Dessert Special 5929,556,24,54,34,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dessert-special-5929
+Snack,Snack Special 4756,620,49,17,2,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-4756
+Dinner,Dinner Special 4662,622,68,46,8,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-4662
+Snack,Snack Special 1414,404,13,52,18,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-1414
+Breakfast,Breakfast Special 3855,804,59,13,26,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-3855
+Breakfast,Breakfast Special 6492,368,59,75,39,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-6492
+Snack,Snack Special 4731,480,21,46,11,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-4731
+Dessert,Dessert Special 8094,835,16,38,12,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-8094
+Lunch,Lunch Special 5977,671,69,55,35,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/lunch-special-5977
+Breakfast,Breakfast Special 9680,377,20,33,40,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-9680
+Snack,Snack Special 2082,838,40,53,11,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/snack-special-2082
+Lunch,Lunch Special 1610,806,22,79,29,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-1610
+Breakfast,Breakfast Special 8492,644,38,33,4,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/breakfast-special-8492
+Dessert,Dessert Special 3270,355,31,29,18,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dessert-special-3270
+Breakfast,Breakfast Special 4183,317,65,69,20,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-4183
+Breakfast,Breakfast Special 8818,434,40,28,39,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/breakfast-special-8818
+Dinner,Dinner Special 1352,502,36,36,40,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-1352
+Breakfast,Breakfast Special 686,402,30,14,17,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-686
+Snack,Snack Special 1632,814,39,39,4,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-1632
+Lunch,Lunch Unique 1722,754,23,28,8,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-unique-1722
+Dinner,Dinner Special 6563,437,11,69,32,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dinner-special-6563
+Snack,Snack Special 4310,239,20,31,30,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/snack-special-4310
+Breakfast,Breakfast Special 3923,381,47,80,8,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-3923
+Breakfast,Breakfast Special 8920,481,48,54,6,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-8920
+Snack,Snack Special 1330,521,28,24,8,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-1330
+Snack,Snack Special 5564,242,19,8,9,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/snack-special-5564
+Dessert,Dessert Special 7729,780,42,35,24,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dessert-special-7729
+Breakfast,Breakfast Special 8401,569,17,50,36,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-8401
+Breakfast,Breakfast Special 8454,414,65,61,9,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-8454
+Dessert,Dessert Special 5336,199,54,38,3,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-5336
+Dinner,Dinner Special 8035,859,64,80,5,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-8035
+Snack,Snack Special 8438,401,33,11,15,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/snack-special-8438
+Snack,Snack Special 2853,483,10,73,36,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/snack-special-2853
+Breakfast,Breakfast Special 93,444,37,73,28,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/breakfast-special-93
+Dinner,Dinner Special 3244,292,17,28,36,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dinner-special-3244
+Dinner,Dinner Special 3393,358,27,60,28,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-3393
+Snack,Snack Special 9475,222,46,12,10,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-9475
+Lunch,Lunch Special 2955,796,42,35,11,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/lunch-special-2955
+Dinner,Dinner Special 4469,827,65,11,4,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-4469
+Dessert,Dessert Special 6786,695,48,48,34,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dessert-special-6786
+Dinner,Dinner Special 9888,422,53,61,20,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-9888
+Snack,Snack Special 5637,259,62,23,17,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-5637
+Breakfast,Breakfast Special 7417,838,55,29,26,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7417
+Dinner,Dinner Special 3123,636,14,32,33,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dinner-special-3123
+Snack,Snack Special 1239,381,67,77,15,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-1239
+Snack,Snack Special 4286,408,26,77,32,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-4286
+Dinner,Dinner Special 5735,296,17,11,38,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dinner-special-5735
+Breakfast,Breakfast Special 2860,878,42,38,3,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-2860
+Lunch,Lunch Special 2751,569,20,11,13,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-2751
+Breakfast,Breakfast Special 8994,665,21,23,13,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/breakfast-special-8994
+Dessert,Dessert Special 6153,252,65,16,14,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-6153
+Breakfast,Breakfast Special 1972,279,55,47,37,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-1972
+Breakfast,Breakfast Special 2227,535,45,32,15,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2227
+Breakfast,Breakfast Special 3795,602,17,63,15,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/breakfast-special-3795
+Snack,Snack Special 8840,561,57,7,1,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/snack-special-8840
+Dinner,Dinner Special 9823,743,15,64,4,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dinner-special-9823
+Breakfast,Breakfast Special 3015,715,7,69,1,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/breakfast-special-3015
+Breakfast,Breakfast Special 5949,317,14,56,21,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-5949
+Dinner,Dinner Special 1006,885,44,33,34,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-1006
+Dessert,Dessert Special 3355,594,22,39,27,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-3355
+Breakfast,Breakfast Special 7175,646,34,12,11,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-7175
+Snack,Snack Special 9987,285,26,68,14,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/snack-special-9987
+Dessert,Dessert Special 6910,797,13,49,27,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/dessert-special-6910
+Dessert,Dessert Special 4954,256,27,49,17,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dessert-special-4954
+Snack,Snack Special 2446,686,28,14,26,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/snack-special-2446
+Snack,Snack Special 6380,158,50,68,9,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-6380
+Dessert,Dessert Special 5704,574,51,80,27,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dessert-special-5704
+Dinner,Dinner Special 1648,152,44,28,30,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dinner-special-1648
+Lunch,Lunch Special 3943,694,6,75,36,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/lunch-special-3943
+Dessert,Dessert Special 2767,622,19,23,30,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-2767
+Dessert,Dessert Special 5691,406,18,41,9,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/dessert-special-5691
+Dinner,Dinner Special 676,638,67,50,26,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dinner-special-676
+Lunch,Lunch Special 8378,722,39,69,21,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-8378
+Breakfast,Breakfast Special 8333,683,30,75,24,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-8333
+Dinner,Dinner Special 1709,848,58,73,39,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-1709
+Dessert,Dessert Special 5776,346,21,75,25,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dessert-special-5776
+Snack,Snack Special 1631,434,40,61,32,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-1631
+Lunch,Lunch Special 370,818,61,71,13,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/lunch-special-370
+Dessert,Dessert Special 6826,387,6,23,19,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-6826
+Dessert,Dessert Special 1703,508,18,62,26,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dessert-special-1703
+Dinner,Dinner Special 6267,156,9,18,14,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dinner-special-6267
+Lunch,Lunch Special 596,350,60,68,34,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-596
+Breakfast,Breakfast Special 8406,523,7,65,17,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/breakfast-special-8406
+Dinner,Dinner Special 2239,689,50,52,16,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-2239
+Snack,Snack Special 8141,216,53,48,32,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-8141
+Snack,Snack Special 4311,315,6,13,27,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/snack-special-4311
+Dessert,Dessert Special 3271,308,37,62,25,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/dessert-special-3271
+Dessert,Dessert Special 511,755,50,65,10,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-511
+Breakfast,Breakfast Special 487,284,67,62,37,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/breakfast-special-487
+Dessert,Dessert Special 4710,785,62,6,29,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-4710
+Snack,Snack Special 4002,868,68,16,2,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/snack-special-4002
+Snack,Snack Special 7678,650,12,35,26,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-7678
+Dinner,Dinner Special 3421,885,8,76,32,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3421
+Snack,Snack Special 4536,418,17,76,1,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-4536
+Breakfast,Breakfast Special 6092,168,61,28,4,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6092
+Dinner,Dinner Special 3592,870,52,45,18,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3592
+Dinner,Dinner Special 9529,364,24,73,5,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dinner-special-9529
+Lunch,Lunch Special 7425,648,30,55,2,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/lunch-special-7425
+Snack,Snack Special 2896,195,8,36,36,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-2896
+Breakfast,Breakfast Special 8712,420,50,29,39,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-8712
+Dessert,Dessert Special 1034,405,27,32,3,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dessert-special-1034
+Dessert,Dessert Special 4282,705,63,50,28,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dessert-special-4282
+Dinner,Dinner Special 2486,554,33,38,16,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-2486
+Dessert,Dessert Unique 9111,481,20,74,20,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-unique-9111
+Breakfast,Breakfast Special 3778,391,53,43,32,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/breakfast-special-3778
+Dinner,Dinner Special 5063,450,28,58,39,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-5063
+Lunch,Lunch Special 882,162,67,72,32,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/lunch-special-882
+Lunch,Lunch Special 995,231,10,24,28,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/lunch-special-995
+Snack,Snack Special 6459,175,63,38,22,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/snack-special-6459
+Dessert,Dessert Special 4903,213,26,26,12,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dessert-special-4903
+Snack,Snack Special 23,621,22,51,36,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-23
+Dinner,Dinner Special 2,290,68,60,26,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-2
+Dinner,Dinner Special 6526,310,46,51,35,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-6526
+Lunch,Lunch Special 8392,259,31,21,12,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-8392
+Lunch,Lunch Special 283,555,27,36,11,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-283
+Lunch,Lunch Unique 3215,383,20,22,11,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/lunch-unique-3215
+Breakfast,Breakfast Special 2602,617,38,46,32,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2602
+Dessert,Dessert Special 1154,275,32,55,23,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-1154
+Lunch,Lunch Special 895,584,66,37,38,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/lunch-special-895
+Breakfast,Breakfast Special 2035,499,14,68,21,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-2035
+Dessert,Dessert Special 1384,710,9,33,28,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-1384
+Breakfast,Breakfast Special 6836,714,39,34,11,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/breakfast-special-6836
+Lunch,Lunch Special 2249,733,47,8,24,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/lunch-special-2249
+Lunch,Lunch Special 4444,538,52,63,2,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-4444
+Dessert,Dessert Special 9193,635,23,73,18,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dessert-special-9193
+Breakfast,Breakfast Special 8183,607,8,31,27,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/breakfast-special-8183
+Breakfast,Breakfast Special 6761,472,10,55,34,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-6761
+Breakfast,Breakfast Special 2361,754,17,39,1,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2361
+Dinner,Dinner Special 7361,707,27,66,1,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dinner-special-7361
+Breakfast,Breakfast Special 2206,344,37,31,19,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-2206
+Breakfast,Breakfast Special 3540,860,20,31,31,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-3540
+Lunch,Lunch Special 6522,757,5,49,12,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/lunch-special-6522
+Dessert,Dessert Special 5513,611,24,41,23,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-5513
+Snack,Snack Special 6209,276,10,79,37,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-6209
+Dinner,Dinner Special 5925,406,44,37,30,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-5925
+Dinner,Dinner Special 9922,519,12,37,31,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-9922
+Breakfast,Breakfast Special 887,856,25,68,10,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-887
+Dessert,Dessert Special 6072,831,45,9,37,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dessert-special-6072
+Dessert,Dessert Special 1091,706,29,16,16,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-1091
+Lunch,Lunch Special 3275,826,30,61,35,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/lunch-special-3275
+Dessert,Dessert Special 8145,789,26,20,37,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-8145
+Dessert,Dessert Special 7974,251,9,36,17,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dessert-special-7974
+Lunch,Lunch Special 2964,347,67,12,22,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/lunch-special-2964
+Dessert,Dessert Special 2314,372,14,52,38,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dessert-special-2314
+Dessert,Dessert Special 7426,324,59,52,12,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dessert-special-7426
+Breakfast,Breakfast Special 8054,341,35,28,3,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-8054
+Lunch,Lunch Special 7419,517,70,36,35,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/lunch-special-7419
+Dessert,Dessert Special 1909,408,52,61,38,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dessert-special-1909
+Breakfast,Breakfast Special 677,597,61,48,5,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/breakfast-special-677
+Breakfast,Breakfast Special 7544,788,10,68,1,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-7544
+Breakfast,Breakfast Special 2942,700,18,56,38,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-2942
+Breakfast,Breakfast Special 6705,374,22,69,18,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/breakfast-special-6705
+Breakfast,Breakfast Special 8455,406,64,9,21,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/breakfast-special-8455
+Dessert,Dessert Special 3003,176,53,62,34,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-3003
+Snack,Snack Special 8411,378,59,30,16,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/snack-special-8411
+Dinner,Dinner Special 3534,230,57,7,10,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dinner-special-3534
+Dessert,Dessert Special 2902,217,53,19,22,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dessert-special-2902
+Snack,Snack Special 929,343,23,44,14,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-929
+Dinner,Dinner Special 1868,196,46,66,3,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-1868
+Lunch,Lunch Special 8771,436,37,64,34,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-8771
+Dessert,Dessert Special 2525,296,18,76,36,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dessert-special-2525
+Dinner,Dinner Special 7768,249,37,41,32,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-7768
+Dessert,Dessert Special 1480,893,46,61,16,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-1480
+Snack,Snack Special 9313,828,70,15,37,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/snack-special-9313
+Breakfast,Breakfast Special 173,455,23,57,40,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/breakfast-special-173
+Lunch,Lunch Special 7224,891,57,50,26,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-7224
+Breakfast,Breakfast Special 2621,598,47,18,15,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-2621
+Lunch,Lunch Special 6144,393,8,25,12,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-6144
+Dessert,Dessert Special 9488,718,52,50,3,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-9488
+Snack,Snack Special 5501,460,37,69,23,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-5501
+Dinner,Dinner Special 2791,670,54,28,10,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-2791
+Snack,Snack Special 2267,878,54,53,14,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/snack-special-2267
+Dessert,Dessert Special 5703,807,56,63,8,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-5703
+Dessert,Dessert Special 8579,880,9,14,7,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dessert-special-8579
+Dessert,Dessert Special 4839,162,67,21,14,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-4839
+Lunch,Lunch Special 5092,808,9,18,27,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/lunch-special-5092
+Dinner,Dinner Special 1939,227,58,52,7,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dinner-special-1939
+Lunch,Lunch Special 482,505,70,8,2,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/lunch-special-482
+Dinner,Dinner Special 9993,600,28,44,19,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-9993
+Dessert,Dessert Special 191,657,59,37,21,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dessert-special-191
+Breakfast,Breakfast Special 6237,345,57,8,32,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/breakfast-special-6237
+Snack,Snack Special 5883,873,25,33,36,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-5883
+Dessert,Dessert Special 8780,355,43,27,15,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dessert-special-8780
+Dinner,Dinner Special 1157,559,66,69,8,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dinner-special-1157
+Dinner,Dinner Special 2052,774,22,11,14,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dinner-special-2052
+Breakfast,Breakfast Special 3603,457,58,23,23,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-3603
+Dessert,Dessert Special 8283,510,47,17,37,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-8283
+Snack,Snack Special 2869,554,40,13,37,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-2869
+Dessert,Dessert Special 5146,734,37,11,25,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-5146
+Snack,Snack Special 4080,819,32,67,6,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/snack-special-4080
+Breakfast,Breakfast Special 6387,172,14,27,18,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6387
+Breakfast,Breakfast Special 61,716,20,72,5,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-61
+Breakfast,Breakfast Special 8114,714,11,42,16,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-8114
+Snack,Snack Special 1422,378,47,39,13,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/snack-special-1422
+Snack,Snack Special 926,492,25,21,39,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-926
+Snack,Snack Special 5631,690,70,31,7,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/snack-special-5631
+Breakfast,Breakfast Special 5065,304,33,75,40,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-5065
+Snack,Snack Special 5845,708,12,69,26,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/snack-special-5845
+Dessert,Dessert Special 8170,853,26,54,12,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-8170
+Snack,Snack Special 2545,195,22,10,20,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-2545
+Dinner,Dinner Special 2331,513,13,42,33,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dinner-special-2331
+Snack,Snack Special 3257,666,5,77,11,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-3257
+Lunch,Lunch Special 1210,866,69,22,10,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-1210
+Dessert,Dessert Special 3159,203,68,78,35,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dessert-special-3159
+Breakfast,Breakfast Special 3506,840,25,64,33,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-3506
+Lunch,Lunch Special 2376,201,7,7,28,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/lunch-special-2376
+Lunch,Lunch Special 180,673,28,61,5,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/lunch-special-180
+Breakfast,Breakfast Special 9791,793,9,67,3,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/breakfast-special-9791
+Dinner,Dinner Special 2683,209,25,59,3,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-2683
+Dinner,Dinner Special 3957,262,36,26,37,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/dinner-special-3957
+Snack,Snack Special 382,515,38,58,39,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/snack-special-382
+Dinner,Dinner Special 7724,342,68,8,11,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7724
+Dinner,Dinner Special 8812,825,7,76,18,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dinner-special-8812
+Dessert,Dessert Special 6927,768,43,43,7,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-6927
+Breakfast,Breakfast Special 7982,476,13,28,29,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/breakfast-special-7982
+Dessert,Dessert Special 4674,333,7,66,8,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-4674
+Dessert,Dessert Special 4542,423,22,10,33,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dessert-special-4542
+Breakfast,Breakfast Special 5674,183,61,13,39,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-5674
+Lunch,Lunch Special 7316,788,60,38,23,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-7316
+Dessert,Dessert Special 3861,415,16,78,31,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-3861
+Breakfast,Breakfast Special 1456,553,51,21,20,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-1456
+Snack,Snack Special 8355,204,13,25,14,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/snack-special-8355
+Lunch,Lunch Special 4234,278,6,63,12,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/lunch-special-4234
+Breakfast,Breakfast Special 741,430,11,41,16,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-741
+Dinner,Dinner Special 2189,241,52,33,16,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dinner-special-2189
+Breakfast,Breakfast Special 7935,718,15,67,3,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/breakfast-special-7935
+Dinner,Dinner Special 1815,500,12,52,4,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-1815
+Lunch,Lunch Special 70,691,23,73,3,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/lunch-special-70
+Snack,Snack Special 7486,422,18,69,34,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/snack-special-7486
+Snack,Snack Special 6443,567,40,78,26,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-6443
+Dinner,Dinner Special 5462,768,49,18,34,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dinner-special-5462
+Lunch,Lunch Special 1891,620,30,59,17,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/lunch-special-1891
+Dinner,Dinner Special 5071,330,26,55,39,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-5071
+Snack,Snack Special 8335,484,14,44,37,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/snack-special-8335
+Dinner,Dinner Special 3966,292,18,19,33,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-3966
+Dessert,Dessert Special 4276,232,8,47,36,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dessert-special-4276
+Lunch,Lunch Special 373,470,29,68,5,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-373
+Snack,Snack Special 3339,523,15,70,7,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-3339
+Dinner,Dinner Special 5888,324,62,48,3,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dinner-special-5888
+Breakfast,Breakfast Special 1783,602,61,37,3,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-1783
+Dinner,Dinner Special 6149,669,43,41,32,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dinner-special-6149
+Breakfast,Breakfast Special 2300,725,45,70,4,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-2300
+Dinner,Dinner Special 7656,562,43,36,10,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7656
+Lunch,Lunch Special 3278,865,50,47,39,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-3278
+Snack,Snack Special 391,768,57,13,8,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-391
+Breakfast,Breakfast Special 8278,301,27,63,3,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-8278
+Dinner,Dinner Special 3571,311,28,74,21,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-3571
+Dessert,Dessert Unique 2253,414,22,27,26,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-unique-2253
+Dinner,Dinner Special 2860,700,12,6,19,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-2860
+Breakfast,Breakfast Special 4272,596,57,32,29,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/breakfast-special-4272
+Dessert,Dessert Special 1941,428,62,10,3,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dessert-special-1941
+Breakfast,Breakfast Special 7152,340,38,67,4,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-7152
+Breakfast,Breakfast Special 817,402,27,58,25,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/breakfast-special-817
+Breakfast,Breakfast Special 1760,766,48,15,5,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/breakfast-special-1760
+Lunch,Lunch Special 583,600,52,18,15,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-583
+Snack,Snack Special 1214,608,56,9,40,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/snack-special-1214
+Snack,Snack Special 6105,380,40,60,2,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-6105
+Lunch,Lunch Special 2165,612,21,26,21,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/lunch-special-2165
+Snack,Snack Special 6250,209,55,11,1,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/snack-special-6250
+Lunch,Lunch Special 5881,233,28,80,32,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-5881
+Dessert,Dessert Special 949,618,47,62,30,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-949
+Dinner,Dinner Special 9189,151,10,44,34,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-9189
+Dessert,Dessert Special 9585,608,22,30,33,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-9585
+Snack,Snack Special 2039,874,60,50,18,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-2039
+Lunch,Lunch Special 3975,204,60,36,24,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/lunch-special-3975
+Dinner,Dinner Special 3423,728,66,76,26,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-3423
+Dinner,Dinner Special 2790,312,16,58,4,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dinner-special-2790
+Lunch,Lunch Special 6213,635,37,32,3,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-6213
+Snack,Snack Special 990,202,41,52,17,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/snack-special-990
+Lunch,Lunch Special 2764,753,27,45,8,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/lunch-special-2764
+Lunch,Lunch Special 8439,333,9,42,1,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/lunch-special-8439
+Lunch,Lunch Special 5503,874,39,14,10,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/lunch-special-5503
+Breakfast,Breakfast Special 3060,594,15,57,15,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-3060
+Dessert,Dessert Special 2834,459,50,73,29,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dessert-special-2834
+Snack,Snack Special 7203,240,15,33,27,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/snack-special-7203
+Dinner,Dinner Special 4948,228,68,73,39,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/dinner-special-4948
+Lunch,Lunch Special 3859,738,24,32,10,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-3859
+Lunch,Lunch Special 2325,559,58,73,31,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-2325
+Snack,Snack Special 2965,714,36,7,21,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-2965
+Snack,Snack Special 2634,824,34,19,14,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/snack-special-2634
+Dessert,Dessert Special 1251,309,47,77,33,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-1251
+Snack,Snack Special 2533,900,47,29,11,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-2533
+Dessert,Dessert Special 6581,200,46,34,30,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-6581
+Lunch,Lunch Special 4854,447,19,10,37,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/lunch-special-4854
+Dessert,Dessert Special 4841,407,25,66,26,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-4841
+Dessert,Dessert Special 397,825,21,24,13,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-397
+Lunch,Lunch Special 5027,181,15,54,32,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/lunch-special-5027
+Breakfast,Breakfast Special 8773,477,33,62,15,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-8773
+Lunch,Lunch Special 9585,868,61,43,16,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-9585
+Dessert,Dessert Special 4519,872,33,28,18,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-4519
+Snack,Snack Special 833,392,45,66,35,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-833
+Dessert,Dessert Special 8429,823,66,36,22,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dessert-special-8429
+Dessert,Dessert Special 9796,810,12,25,17,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-9796
+Dessert,Dessert Special 2215,201,15,35,33,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dessert-special-2215
+Breakfast,Breakfast Special 6374,727,36,45,13,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/breakfast-special-6374
+Snack,Snack Special 2146,263,28,16,29,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-2146
+Breakfast,Breakfast Special 6953,582,55,78,26,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/breakfast-special-6953
+Lunch,Lunch Special 8645,318,30,33,30,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-8645
+Lunch,Lunch Special 3752,297,32,62,25,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/lunch-special-3752
+Dinner,Dinner Special 4191,298,19,32,25,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-4191
+Breakfast,Breakfast Special 3430,354,38,13,29,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/breakfast-special-3430
+Snack,Snack Special 1914,609,52,63,25,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/snack-special-1914
+Dinner,Dinner Special 2596,894,52,15,20,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-2596
+Dinner,Dinner Special 990,238,28,17,13,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-990
+Breakfast,Breakfast Special 1931,558,43,57,39,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-1931
+Dinner,Dinner Special 1746,501,49,29,33,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dinner-special-1746
+Dinner,Dinner Special 3345,260,33,21,30,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/dinner-special-3345
+Dinner,Dinner Special 5331,408,7,77,26,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-5331
+Dinner,Dinner Special 6868,255,34,55,27,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dinner-special-6868
+Breakfast,Breakfast Special 2313,698,29,37,21,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/breakfast-special-2313
+Dinner,Dinner Special 8973,682,25,78,27,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dinner-special-8973
+Lunch,Lunch Special 8905,322,34,11,37,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-8905
+Dessert,Dessert Special 5706,293,7,73,5,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dessert-special-5706
+Lunch,Lunch Special 6654,730,11,40,29,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-6654
+Dinner,Dinner Special 8706,268,41,55,7,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/dinner-special-8706
+Dessert,Dessert Special 120,288,22,37,4,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-120
+Breakfast,Breakfast Special 5122,813,32,20,37,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-5122
+Dinner,Dinner Special 2217,255,26,49,17,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-2217
+Breakfast,Breakfast Unique 3248,827,68,48,13,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/breakfast-unique-3248
+Dessert,Dessert Special 8706,254,64,7,39,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dessert-special-8706
+Dessert,Dessert Special 1258,241,61,61,24,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-1258
+Lunch,Lunch Special 6764,282,46,39,22,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-6764
+Snack,Snack Special 9191,685,40,46,13,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-9191
+Dessert,Dessert Special 3327,442,25,32,19,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-3327
+Lunch,Lunch Special 1006,829,64,26,17,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/lunch-special-1006
+Breakfast,Breakfast Special 717,507,29,53,25,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-717
+Dessert,Dessert Special 698,224,40,21,5,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/dessert-special-698
+Dinner,Dinner Special 1316,453,41,73,2,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dinner-special-1316
+Lunch,Lunch Special 7828,767,51,34,13,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-7828
+Breakfast,Breakfast Special 7019,461,68,55,25,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-7019
+Dinner,Dinner Special 2632,651,55,57,21,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dinner-special-2632
+Dinner,Dinner Special 8830,268,31,9,23,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dinner-special-8830
+Dessert,Dessert Special 6975,196,44,79,33,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dessert-special-6975
+Breakfast,Breakfast Special 5615,400,54,10,4,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-5615
+Breakfast,Breakfast Special 3984,727,54,27,23,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-3984
+Snack,Snack Special 4270,275,6,25,26,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-4270
+Dinner,Dinner Special 1122,394,65,5,27,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-1122
+Lunch,Lunch Special 2756,510,13,50,30,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/lunch-special-2756
+Breakfast,Breakfast Special 4225,413,39,33,13,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-4225
+Dessert,Dessert Special 6822,882,16,49,40,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/dessert-special-6822
+Dessert,Dessert Special 4712,289,59,26,17,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-4712
+Dinner,Dinner Special 9969,716,57,53,21,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dinner-special-9969
+Lunch,Lunch Special 2543,476,69,24,1,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-2543
+Dessert,Dessert Special 9218,225,25,54,3,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dessert-special-9218
+Lunch,Lunch Special 2128,553,29,79,32,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/lunch-special-2128
+Lunch,Lunch Special 6280,749,68,53,19,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-6280
+Lunch,Lunch Special 1703,281,32,46,32,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-1703
+Breakfast,Breakfast Special 622,779,39,30,4,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/breakfast-special-622
+Lunch,Lunch Special 4589,635,21,66,20,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-4589
+Lunch,Lunch Special 5556,809,68,56,22,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-5556
+Snack,Snack Special 9225,488,53,41,39,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-9225
+Dessert,Dessert Special 2711,401,40,51,29,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/dessert-special-2711
+Dinner,Dinner Special 3924,776,63,6,20,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dinner-special-3924
+Dessert,Dessert Special 8948,348,13,41,19,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dessert-special-8948
+Snack,Snack Special 7440,779,5,66,27,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/snack-special-7440
+Breakfast,Breakfast Special 3167,672,48,15,24,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-3167
+Snack,Snack Special 3010,620,20,48,31,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/snack-special-3010
+Dessert,Dessert Special 8514,617,52,39,27,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-8514
+Dinner,Dinner Special 9734,552,66,56,9,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dinner-special-9734
+Breakfast,Breakfast Special 5938,381,32,58,27,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/breakfast-special-5938
+Dinner,Dinner Special 8431,611,40,63,18,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dinner-special-8431
+Breakfast,Breakfast Special 8627,321,32,5,26,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/breakfast-special-8627
+Dessert,Dessert Special 2063,801,57,18,12,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dessert-special-2063
+Dinner,Dinner Special 7440,651,27,7,38,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7440
+Snack,Snack Special 7856,783,45,32,20,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-7856
+Breakfast,Breakfast Special 3639,582,59,10,40,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/breakfast-special-3639
+Dessert,Dessert Special 5646,731,15,69,27,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-5646
+Dessert,Dessert Special 3513,656,57,29,14,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-3513
+Dessert,Dessert Special 5206,862,8,25,5,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-5206
+Lunch,Lunch Special 9044,625,44,67,18,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-9044
+Lunch,Lunch Special 9111,382,18,42,11,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-9111
+Dinner,Dinner Special 9291,840,18,66,38,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-9291
+Snack,Snack Special 4700,486,29,64,37,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/snack-special-4700
+Snack,Snack Special 2500,784,38,7,40,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/snack-special-2500
+Breakfast,Breakfast Special 3898,856,8,66,19,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/breakfast-special-3898
+Dinner,Dinner Special 1530,295,69,73,8,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/dinner-special-1530
+Breakfast,Breakfast Special 6331,182,57,27,35,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-6331
+Snack,Snack Special 8299,848,55,73,33,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/snack-special-8299
+Lunch,Lunch Special 438,198,56,25,2,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-438
+Dinner,Dinner Special 8143,425,54,58,10,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dinner-special-8143
+Breakfast,Breakfast Special 5559,478,12,16,40,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/breakfast-special-5559
+Breakfast,Breakfast Special 6273,887,69,9,10,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/breakfast-special-6273
+Dinner,Dinner Special 5547,292,9,77,31,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dinner-special-5547
+Lunch,Lunch Special 8120,829,53,26,5,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-8120
+Snack,Snack Special 6342,306,8,46,6,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-6342
+Breakfast,Breakfast Special 1002,840,60,34,39,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-1002
+Breakfast,Breakfast Special 4778,859,35,77,40,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/breakfast-special-4778
+Snack,Snack Special 1665,825,68,47,6,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/snack-special-1665
+Snack,Snack Special 5566,289,20,74,38,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/snack-special-5566
+Snack,Snack Special 2150,560,53,43,11,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/snack-special-2150
+Dinner,Dinner Special 8669,346,56,65,39,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-8669
+Dinner,Dinner Special 1679,413,21,69,30,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-1679
+Snack,Snack Special 8070,767,46,54,13,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-8070
+Breakfast,Breakfast Special 3114,583,69,20,26,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/breakfast-special-3114
+Breakfast,Breakfast Special 8340,222,59,71,5,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-8340
+Dessert,Dessert Special 77,557,25,7,32,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-77
+Lunch,Lunch Special 2216,413,31,28,19,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-2216
+Lunch,Lunch Special 9024,336,22,57,28,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-9024
+Snack,Snack Special 3889,192,45,44,6,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/snack-special-3889
+Dessert,Dessert Special 849,407,21,31,11,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-849
+Snack,Snack Special 5180,235,14,75,18,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-5180
+Lunch,Lunch Special 8979,767,27,36,39,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/lunch-special-8979
+Dessert,Dessert Special 1036,184,69,27,12,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-1036
+Dinner,Dinner Special 9413,767,8,74,29,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-9413
+Snack,Snack Special 7125,889,41,12,40,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-7125
+Breakfast,Breakfast Special 2808,715,55,11,2,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2808
+Lunch,Lunch Special 3698,705,50,41,15,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/lunch-special-3698
+Lunch,Lunch Special 3430,734,60,32,8,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/lunch-special-3430
+Dinner,Dinner Special 7600,331,39,68,31,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-7600
+Lunch,Lunch Special 4636,842,16,65,29,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/lunch-special-4636
+Lunch,Lunch Special 1914,267,8,17,5,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/lunch-special-1914
+Snack,Snack Special 3943,585,31,44,14,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-3943
+Snack,Snack Special 8066,548,61,37,23,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/snack-special-8066
+Dessert,Dessert Special 5476,343,59,7,11,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dessert-special-5476
+Dinner,Dinner Special 7016,535,18,75,10,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-7016
+Lunch,Lunch Special 3713,886,58,13,23,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/lunch-special-3713
+Lunch,Lunch Special 6067,731,23,36,23,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-6067
+Dinner,Dinner Special 3850,485,7,30,25,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-3850
+Snack,Snack Special 8596,896,62,59,33,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/snack-special-8596
+Breakfast,Breakfast Special 8889,587,61,77,12,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/breakfast-special-8889
+Dinner,Dinner Special 5200,725,67,40,32,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-5200
+Lunch,Lunch Special 3743,266,30,71,21,"Eggs, Bacon, Toast, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-3743
+Dessert,Dessert Special 2086,488,39,11,18,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-2086
+Dessert,Dessert Special 6913,577,45,18,26,"Fish, Quinoa, Spinach, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-6913
+Dinner,Dinner Special 4494,698,55,23,39,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dinner-special-4494
+Breakfast,Breakfast Special 113,477,27,31,26,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/breakfast-special-113
+Breakfast,Breakfast Special 4895,532,63,18,35,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-4895
+Dessert,Dessert Special 7722,450,29,69,30,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-7722
+Snack,Snack Special 8124,785,35,45,29,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/snack-special-8124
+Lunch,Lunch Special 366,475,44,30,27,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-366
+Snack,Snack Special 6304,819,27,6,38,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/snack-special-6304
+Snack,Snack Special 878,747,14,38,2,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/snack-special-878
+Dessert,Dessert Special 745,653,66,7,30,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-745
+Snack,Snack Special 8647,798,24,34,16,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/snack-special-8647
+Breakfast,Breakfast Special 3869,527,14,35,33,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/breakfast-special-3869
+Snack,Snack Special 6809,272,34,62,16,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-6809
+Dessert,Dessert Special 1522,353,15,30,29,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-1522
+Snack,Snack Special 4562,795,19,19,23,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/snack-special-4562
+Snack,Snack Special 8424,715,28,60,22,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/snack-special-8424
+Lunch,Lunch Special 633,401,11,57,3,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/lunch-special-633
+Dessert,Dessert Special 1322,434,48,13,20,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dessert-special-1322
+Dessert,Dessert Special 6228,210,40,34,8,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dessert-special-6228
+Snack,Snack Special 1283,435,48,50,28,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/snack-special-1283
+Snack,Snack Special 8375,271,56,55,5,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/snack-special-8375
+Dessert,Dessert Special 1455,837,8,12,21,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dessert-special-1455
+Lunch,Lunch Special 1282,663,29,22,30,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-1282
+Dinner,Dinner Special 9394,745,52,76,17,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/dinner-special-9394
+Dessert,Dessert Special 4603,426,9,75,15,"Chicken, Rice, Vegetables, Fish, Quinoa, Spinach",https://example.com/dessert-special-4603
+Dinner,Dinner Special 3545,187,55,42,36,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-3545
+Dinner,Dinner Special 9688,543,51,23,3,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-9688
+Snack,Snack Special 1600,506,15,49,31,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-1600
+Breakfast,Breakfast Special 114,181,41,10,11,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-114
+Dinner,Dinner Special 3366,222,34,57,12,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/dinner-special-3366
+Dessert,Dessert Special 6404,732,33,9,28,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-6404
+Lunch,Lunch Special 8913,416,39,79,7,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/lunch-special-8913
+Dessert,Dessert Special 3881,346,48,71,4,"Chicken, Rice, Vegetables, Eggs, Bacon, Toast",https://example.com/dessert-special-3881
+Dessert,Dessert Special 8980,689,40,5,30,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-8980
+Lunch,Lunch Special 8198,889,7,13,17,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-8198
+Snack,Snack Special 5750,884,63,60,31,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/snack-special-5750
+Snack,Snack Special 9608,775,55,38,37,"Beef, Potatoes, Peas, Chicken, Rice, Vegetables",https://example.com/snack-special-9608
+Breakfast,Breakfast Special 6789,222,10,5,33,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-6789
+Dessert,Dessert Special 5937,372,64,25,23,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dessert-special-5937
+Dessert,Dessert Special 858,207,40,73,40,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dessert-special-858
+Dinner,Dinner Special 5898,430,29,36,18,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dinner-special-5898
+Lunch,Lunch Special 6839,891,9,24,24,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-6839
+Dessert,Dessert Special 9323,152,36,59,3,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-9323
+Breakfast,Breakfast Special 963,604,5,78,31,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-963
+Dessert,Dessert Special 1279,712,39,23,37,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dessert-special-1279
+Dinner,Dinner Special 1811,895,65,66,19,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dinner-special-1811
+Breakfast,Breakfast Special 9356,712,41,66,23,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/breakfast-special-9356
+Lunch,Lunch Special 2270,547,28,71,8,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/lunch-special-2270
+Dinner,Dinner Special 1435,180,17,50,19,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dinner-special-1435
+Snack,Snack Special 375,613,54,26,22,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/snack-special-375
+Dessert,Dessert Special 4134,435,30,46,36,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/dessert-special-4134
+Dinner,Dinner Special 4904,646,12,18,11,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dinner-special-4904
+Lunch,Lunch Special 830,199,27,79,28,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/lunch-special-830
+Lunch,Lunch Special 5008,649,66,68,25,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-5008
+Breakfast,Breakfast Special 2297,536,10,51,38,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/breakfast-special-2297
+Snack,Snack Special 834,605,12,23,26,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-834
+Dessert,Dessert Special 3664,570,28,50,6,"Chicken, Rice, Vegetables, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-3664
+Dessert,Dessert Special 267,866,25,71,30,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-267
+Dessert,Dessert Special 2427,408,8,72,19,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dessert-special-2427
+Dinner,Dinner Special 6821,601,12,65,18,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dinner-special-6821
+Lunch,Lunch Special 2447,331,66,50,23,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/lunch-special-2447
+Lunch,Lunch Special 3642,829,58,22,7,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/lunch-special-3642
+Dessert,Dessert Special 3659,514,33,60,39,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dessert-special-3659
+Snack,Snack Special 5955,750,47,75,37,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/snack-special-5955
+Dinner,Dinner Special 9496,775,41,80,3,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-9496
+Breakfast,Breakfast Special 6131,711,31,40,10,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/breakfast-special-6131
+Lunch,Lunch Special 2322,588,44,74,39,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-2322
+Snack,Snack Special 8705,530,42,26,8,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/snack-special-8705
+Lunch,Lunch Special 3334,862,43,38,2,"Smoothie, Berries, Almond Milk, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-3334
+Dessert,Dessert Special 1833,597,56,12,33,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/dessert-special-1833
+Dinner,Dinner Special 7425,269,53,15,23,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dinner-special-7425
+Lunch,Lunch Special 3437,387,66,51,39,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-3437
+Breakfast,Breakfast Special 9428,667,29,34,32,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/breakfast-special-9428
+Dessert,Dessert Special 8213,777,12,37,12,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-8213
+Lunch,Lunch Special 2030,709,28,13,17,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/lunch-special-2030
+Dessert,Dessert Special 5079,647,22,31,33,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-5079
+Snack,Snack Special 6451,195,42,56,40,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-6451
+Snack,Snack Special 8282,445,24,60,14,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/snack-special-8282
+Dinner,Dinner Special 6594,271,12,33,24,"Pasta, Tomato Sauce, Cheese, Eggs, Bacon, Toast",https://example.com/dinner-special-6594
+Dessert,Dessert Special 4261,239,19,61,30,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-4261
+Breakfast,Breakfast Special 3453,702,28,38,2,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/breakfast-special-3453
+Breakfast,Breakfast Special 2346,287,70,65,2,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-2346
+Dessert,Dessert Special 136,320,39,12,6,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-136
+Snack,Snack Special 4477,216,16,76,4,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/snack-special-4477
+Dessert,Dessert Special 7471,450,43,68,7,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-7471
+Lunch,Lunch Special 2197,692,68,43,8,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/lunch-special-2197
+Dinner,Dinner Special 4830,731,57,19,38,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-4830
+Snack,Snack Special 2665,185,65,43,39,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/snack-special-2665
+Snack,Snack Special 1757,271,37,30,36,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/snack-special-1757
+Lunch,Lunch Special 6247,262,49,62,34,"Fish, Quinoa, Spinach, Bread, Peanut Butter, Banana",https://example.com/lunch-special-6247
+Breakfast,Breakfast Special 7504,213,34,29,19,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/breakfast-special-7504
+Breakfast,Breakfast Special 2480,325,43,44,32,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/breakfast-special-2480
+Breakfast,Breakfast Special 7686,549,11,12,17,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7686
+Breakfast,Breakfast Special 3454,416,5,15,30,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-3454
+Lunch,Lunch Special 9687,701,46,33,27,"Bread, Peanut Butter, Banana, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-9687
+Breakfast,Breakfast Special 3781,592,63,21,19,"Beef, Potatoes, Peas, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-3781
+Breakfast,Breakfast Special 4140,435,30,25,6,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-4140
+Lunch,Lunch Special 5864,492,26,51,40,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/lunch-special-5864
+Dinner,Dinner Special 7160,270,18,14,20,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dinner-special-7160
+Dessert,Dessert Special 2293,201,12,66,9,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dessert-special-2293
+Snack,Snack Special 8516,479,6,28,34,"Beef, Potatoes, Peas, Eggs, Bacon, Toast",https://example.com/snack-special-8516
+Dinner,Dinner Special 974,771,38,40,28,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dinner-special-974
+Lunch,Lunch Special 4812,615,11,70,24,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-4812
+Dessert,Dessert Special 8501,786,44,70,32,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-8501
+Dinner,Dinner Special 2200,810,31,11,9,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dinner-special-2200
+Lunch,Lunch Special 3453,514,70,77,37,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/lunch-special-3453
+Dessert,Dessert Special 1167,169,70,5,30,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/dessert-special-1167
+Snack,Snack Special 9292,552,59,32,7,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/snack-special-9292
+Breakfast,Breakfast Special 6200,265,68,35,10,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/breakfast-special-6200
+Breakfast,Breakfast Special 5310,545,31,78,39,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-5310
+Lunch,Lunch Special 1142,811,53,53,9,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/lunch-special-1142
+Lunch,Lunch Special 9723,691,31,25,14,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/lunch-special-9723
+Dinner,Dinner Special 144,750,59,65,8,"Smoothie, Berries, Almond Milk, Beef, Potatoes, Peas",https://example.com/dinner-special-144
+Snack,Snack Special 4486,537,47,44,32,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-4486
+Lunch,Lunch Special 1261,867,69,35,11,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-1261
+Dinner,Dinner Special 1332,542,47,50,1,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dinner-special-1332
+Snack,Snack Special 4011,612,31,14,24,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/snack-special-4011
+Breakfast,Breakfast Special 4446,171,39,18,9,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-4446
+Lunch,Lunch Special 8983,850,6,66,19,"Pasta, Tomato Sauce, Cheese, Beef, Potatoes, Peas",https://example.com/lunch-special-8983
+Dinner,Dinner Special 3722,179,59,13,7,"Eggs, Bacon, Toast, Pasta, Tomato Sauce, Cheese",https://example.com/dinner-special-3722
+Breakfast,Breakfast Special 7501,617,22,71,3,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-7501
+Dessert,Dessert Special 1023,431,21,58,39,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dessert-special-1023
+Dessert,Dessert Special 5675,845,26,45,32,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-5675
+Lunch,Lunch Special 3850,531,70,45,28,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/lunch-special-3850
+Lunch,Lunch Special 6285,809,60,65,14,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/lunch-special-6285
+Lunch,Lunch Special 3330,763,43,52,16,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-3330
+Dinner,Dinner Special 1185,225,55,40,24,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dinner-special-1185
+Dessert,Dessert Special 3783,843,44,72,16,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-3783
+Dinner,Dinner Special 4214,819,20,10,28,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dinner-special-4214
+Breakfast,Breakfast Special 6830,694,17,11,31,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/breakfast-special-6830
+Lunch,Lunch Special 7960,391,41,52,23,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-7960
+Dessert,Dessert Special 3611,896,36,43,14,"Fruit Salad, Yogurt, Honey, Eggs, Bacon, Toast",https://example.com/dessert-special-3611
+Lunch,Lunch Special 6381,315,63,11,7,"Smoothie, Berries, Almond Milk, Chicken, Rice, Vegetables",https://example.com/lunch-special-6381
+Snack,Snack Special 920,355,29,52,24,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/snack-special-920
+Dessert,Dessert Special 2134,701,12,33,9,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-2134
+Lunch,Lunch Special 6965,544,30,44,8,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/lunch-special-6965
+Dessert,Dessert Special 9942,246,64,78,6,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/dessert-special-9942
+Dessert,Dessert Special 8844,784,52,20,40,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/dessert-special-8844
+Snack,Snack Special 1516,512,24,31,11,"Bread, Peanut Butter, Banana, Smoothie, Berries, Almond Milk",https://example.com/snack-special-1516
+Breakfast,Breakfast Special 5471,425,17,62,32,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/breakfast-special-5471
+Snack,Snack Special 6162,869,27,56,28,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/snack-special-6162
+Breakfast,Breakfast Special 2863,186,25,62,26,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/breakfast-special-2863
+Dessert,Dessert Special 3991,478,48,15,26,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/dessert-special-3991
+Breakfast,Breakfast Special 4975,699,9,49,7,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/breakfast-special-4975
+Dessert,Dessert Special 2889,639,10,76,34,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/dessert-special-2889
+Lunch,Lunch Special 2871,619,65,28,32,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-2871
+Dinner,Dinner Special 1513,217,23,61,22,"Beef, Potatoes, Peas, Fish, Quinoa, Spinach",https://example.com/dinner-special-1513
+Breakfast,Breakfast Special 3139,244,13,44,4,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/breakfast-special-3139
+Dinner,Dinner Special 6458,850,60,40,8,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-6458
+Dessert,Dessert Unique 6669,159,11,40,21,"Smoothie, Berries, Almond Milk, Bread, Peanut Butter, Banana",https://example.com/dessert-unique-6669
+Dinner,Dinner Special 4897,487,13,25,7,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-4897
+Snack,Snack Special 3916,425,19,59,9,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/snack-special-3916
+Dessert,Dessert Special 6136,646,58,75,32,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/dessert-special-6136
+Lunch,Lunch Special 290,850,6,48,10,"Fish, Quinoa, Spinach, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-290
+Snack,Snack Special 9018,200,39,36,26,"Fruit Salad, Yogurt, Honey, Pasta, Tomato Sauce, Cheese",https://example.com/snack-special-9018
+Dessert,Dessert Special 4563,626,50,25,10,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/dessert-special-4563
+Dessert,Dessert Special 6456,848,55,33,15,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/dessert-special-6456
+Lunch,Lunch Special 7457,611,21,11,4,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/lunch-special-7457
+Lunch,Lunch Special 8385,182,64,37,36,"Eggs, Bacon, Toast, Chicken, Rice, Vegetables",https://example.com/lunch-special-8385
+Snack,Snack Special 8158,221,11,21,1,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/snack-special-8158
+Dessert,Dessert Special 2367,869,8,26,30,"Bread, Peanut Butter, Banana, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-2367
+Dessert,Dessert Special 3254,471,35,44,30,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-3254
+Lunch,Lunch Special 6239,610,67,68,33,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/lunch-special-6239
+Dessert,Dessert Special 1277,177,12,41,34,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/dessert-special-1277
+Breakfast,Breakfast Special 2580,485,10,32,27,"Chicken, Rice, Vegetables, Bread, Peanut Butter, Banana",https://example.com/breakfast-special-2580
+Snack,Snack Unique 5757,626,15,46,16,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/snack-unique-5757
+Dessert,Dessert Special 6381,571,61,59,15,"Bread, Peanut Butter, Banana, Fish, Quinoa, Spinach",https://example.com/dessert-special-6381
+Dessert,Dessert Special 7694,497,70,71,12,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dessert-special-7694
+Dinner,Dinner Special 6476,542,48,60,36,"Fruit Salad, Yogurt, Honey, Bread, Peanut Butter, Banana",https://example.com/dinner-special-6476
+Snack,Snack Special 2640,577,65,18,19,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/snack-special-2640
+Dinner,Dinner Special 7784,774,29,9,34,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/dinner-special-7784
+Dinner,Dinner Special 1362,871,59,45,38,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/dinner-special-1362
+Breakfast,Breakfast Special 1266,792,49,64,11,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/breakfast-special-1266
+Dinner,Dinner Special 4210,311,45,59,6,"Pasta, Tomato Sauce, Cheese, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-4210
+Snack,Snack Special 8437,163,23,7,39,"Eggs, Bacon, Toast, Smoothie, Berries, Almond Milk",https://example.com/snack-special-8437
+Dessert,Dessert Special 1249,787,58,43,11,"Bread, Peanut Butter, Banana, Chicken, Rice, Vegetables",https://example.com/dessert-special-1249
+Dessert,Dessert Special 3957,862,60,58,31,"Bread, Peanut Butter, Banana, Eggs, Bacon, Toast",https://example.com/dessert-special-3957
+Lunch,Lunch Special 1626,609,27,72,17,"Pasta, Tomato Sauce, Cheese, Fish, Quinoa, Spinach",https://example.com/lunch-special-1626
+Lunch,Lunch Special 7818,288,64,45,22,"Beef, Potatoes, Peas, Pasta, Tomato Sauce, Cheese",https://example.com/lunch-special-7818
+Snack,Snack Special 1901,705,47,71,19,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/snack-special-1901
+Dinner,Dinner Special 6326,774,10,8,17,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/dinner-special-6326
+Dinner,Dinner Special 8251,814,21,42,39,"Eggs, Bacon, Toast, Fish, Quinoa, Spinach",https://example.com/dinner-special-8251
+Breakfast,Breakfast Special 3300,166,25,38,20,"Fruit Salad, Yogurt, Honey, Smoothie, Berries, Almond Milk",https://example.com/breakfast-special-3300
+Dessert,Dessert Special 4137,615,51,57,20,"Fruit Salad, Yogurt, Honey, Beef, Potatoes, Peas",https://example.com/dessert-special-4137
+Snack,Snack Special 1626,821,35,24,29,"Pasta, Tomato Sauce, Cheese, Chicken, Rice, Vegetables",https://example.com/snack-special-1626
+Snack,Snack Special 8457,155,47,29,32,"Beef, Potatoes, Peas, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-8457
+Snack,Snack Special 2309,595,38,42,33,"Chicken, Rice, Vegetables, Beef, Potatoes, Peas",https://example.com/snack-special-2309
+Dessert,Dessert Special 7598,166,65,20,4,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/dessert-special-7598
+Dessert,Dessert Special 5949,166,42,22,29,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/dessert-special-5949
+Snack,Snack Special 1491,542,16,38,28,"Eggs, Bacon, Toast, Bread, Peanut Butter, Banana",https://example.com/snack-special-1491
+Snack,Snack Special 6074,800,28,78,9,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/snack-special-6074
+Dinner,Dinner Special 9856,835,67,43,20,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dinner-special-9856
+Dessert,Dessert Special 7508,613,60,80,26,"Beef, Potatoes, Peas, Smoothie, Berries, Almond Milk",https://example.com/dessert-special-7508
+Dinner,Dinner Special 3243,254,39,43,12,"Fish, Quinoa, Spinach, Eggs, Bacon, Toast",https://example.com/dinner-special-3243
+Dinner,Dinner Special 5076,676,34,67,12,"Fruit Salad, Yogurt, Honey, Fish, Quinoa, Spinach",https://example.com/dinner-special-5076
+Lunch,Lunch Special 9172,740,35,30,6,"Pasta, Tomato Sauce, Cheese, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-9172
+Snack,Snack Special 8799,235,30,55,40,"Bread, Peanut Butter, Banana, Beef, Potatoes, Peas",https://example.com/snack-special-8799
+Snack,Snack Special 678,879,28,51,6,"Fish, Quinoa, Spinach, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-678
+Lunch,Lunch Special 101,661,69,75,26,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-101
+Breakfast,Breakfast Special 3040,315,34,23,38,"Eggs, Bacon, Toast, Beef, Potatoes, Peas",https://example.com/breakfast-special-3040
+Lunch,Lunch Special 250,295,46,17,17,"Chicken, Rice, Vegetables, Fruit Salad, Yogurt, Honey",https://example.com/lunch-special-250
+Breakfast,Breakfast Special 2829,643,6,7,4,"Fruit Salad, Yogurt, Honey, Chicken, Rice, Vegetables",https://example.com/breakfast-special-2829
+Breakfast,Breakfast Special 1899,816,11,78,1,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-1899
+Snack,Snack Special 7594,340,69,28,17,"Pasta, Tomato Sauce, Cheese, Bread, Peanut Butter, Banana",https://example.com/snack-special-7594
+Lunch,Lunch Unique 219,440,42,59,40,"Smoothie, Berries, Almond Milk, Eggs, Bacon, Toast",https://example.com/lunch-unique-219
+Lunch,Lunch Special 679,852,54,25,11,"Smoothie, Berries, Almond Milk, Fish, Quinoa, Spinach",https://example.com/lunch-special-679
+Breakfast,Breakfast Special 2688,295,60,69,28,"Chicken, Rice, Vegetables, Pasta, Tomato Sauce, Cheese",https://example.com/breakfast-special-2688
+Lunch,Lunch Special 7651,320,17,52,2,"Fish, Quinoa, Spinach, Chicken, Rice, Vegetables",https://example.com/lunch-special-7651
+Snack,Snack Special 8047,652,53,52,30,"Fish, Quinoa, Spinach, Beef, Potatoes, Peas",https://example.com/snack-special-8047
+Snack,Snack Special 7425,524,19,56,17,"Smoothie, Berries, Almond Milk, Fruit Salad, Yogurt, Honey",https://example.com/snack-special-7425
